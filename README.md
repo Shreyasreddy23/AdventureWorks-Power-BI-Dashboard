@@ -60,7 +60,8 @@ The goal is to analyze business performance by tracking sales, profit, productio
 ![Business Overview Dashboard](
 "C:\Users\Shara\OneDrive\Desktop\DATA ANALYST\PROJECT\Adventure work project\Screenshot 2026-02-10 125943.png")
 
-![Market Analysis Dashboard](C:\Users\Shara\OneDrive\Desktop\DATA ANALYST\PROJECT\Adventure work project\Screenshot 2026-02-10 125914.png)
+![Market Analysis Dashboard](<img width="1245" height="735" alt="Screenshot 2026-02-10 125914" src="https://github.com/user-attachments/assets/86fd21f7-949b-4fef-b7f6-2da0883ca53c" />
+)
 
 
 
