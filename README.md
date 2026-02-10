@@ -54,7 +54,8 @@ The goal is to analyze business performance by tracking sales, profit, productio
 - Dashboard design and storytelling
 
 ## Dashboard Preview
-Screenshots of the dashboard are included in this repository for reference.
+"C:\Users\Shara\OneDrive\Desktop\DATA ANALYST\PROJECT\Adventure work project\Screenshot 2026-02-10 125914.png"
+"C:\Users\Shara\OneDrive\Desktop\DATA ANALYST\PROJECT\Adventure work project\Screenshot 2026-02-10 125943.png"
 
 ## How to Use
 1. Download the Power BI (.pbix) file
