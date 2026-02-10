@@ -57,9 +57,9 @@ The goal is to analyze business performance by tracking sales, profit, productio
 
 ## Dashboard Preview
 
-![Business Overview Dashboard](<img width="1245" height="745" alt="Screenshot 2026-02-10 125943" src="https://github.com/user-attachments/assets/84d14366-1897-4239-9ce3-1f556e48cb14" />)
+(<img   width="1245" height="745" alt="Screenshot 2026-02-10 125943" src="https://github.com/user-attachments/assets/84d14366-1897-4239-9ce3-1f556e48cb14" />)
 
-![Market Analysis Dashboard](<img width="1245" height="735" alt="Screenshot 2026-02-10 125914" src="https://github.com/user-attachments/assets/86fd21f7-949b-4fef-b7f6-2da0883ca53c" />)
+(<img width="1245" height="735" alt="Screenshot 2026-02-10 125914" src="https://github.com/user-attachments/assets/86fd21f7-949b-4fef-b7f6-2da0883ca53c" />)
 
 
 
