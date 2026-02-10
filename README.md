@@ -54,8 +54,15 @@ The goal is to analyze business performance by tracking sales, profit, productio
 - Dashboard design and storytelling
 
 ## Dashboard Preview
-"C:\Users\Shara\OneDrive\Desktop\DATA ANALYST\PROJECT\Adventure work project\Screenshot 2026-02-10 125914.png"
-"C:\Users\Shara\OneDrive\Desktop\DATA ANALYST\PROJECT\Adventure work project\Screenshot 2026-02-10 125943.png"
+
+## Dashboard Preview
+
+![Business Overview Dashboard](
+"C:\Users\Shara\OneDrive\Desktop\DATA ANALYST\PROJECT\Adventure work project\Screenshot 2026-02-10 125943.png")
+
+![Market Analysis Dashboard]("C:\Users\Shara\OneDrive\Desktop\DATA ANALYST\PROJECT\Adventure work project\Screenshot 2026-02-10 125914.png")
+
+
 
 ## How to Use
 1. Download the Power BI (.pbix) file
